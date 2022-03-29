@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148693835050",
+    "project_id": "split-it-rocketseat-de4a3",
+    "storage_bucket": "split-it-rocketseat-de4a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148693835050:android:a06416066abd8393461253",
+        "android_client_info": {
+          "package_name": "com.example.split_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148693835050-dam6ugiu5asu11in2fsbpgs90mh9p645.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALg3FJ2v6yRBn5AVPobaz7CmGeVxpzX-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148693835050-dam6ugiu5asu11in2fsbpgs90mh9p645.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
