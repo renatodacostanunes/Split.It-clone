@@ -29,7 +29,12 @@ dependencies:
   #Testes
   mocktail: ^0.3.0
 
+  #Formatter
+  intl: ^0.17.0
   flutter_masked_text2: ^0.9.1
+
+  #Loadings
+  shimmer: ^2.0.0
 
 dev_dependencies:
   flutter_test:

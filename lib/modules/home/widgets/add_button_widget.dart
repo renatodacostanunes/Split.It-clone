@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:split_it/theme/app_theme.dart';
+import 'package:split_it/shared/theme/app_theme.dart';
 
 class AddButtonWidget extends StatelessWidget {
   const AddButtonWidget({Key? key, required this.onTap}) : super(key: key);
@@ -8,7 +8,7 @@ class AddButtonWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return InkWell(
-      onTap: () {},
+      onTap: onTap,
       child: Container(
         width: 48,
         height: 48,

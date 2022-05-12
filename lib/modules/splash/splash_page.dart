@@ -1,7 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:split_it/firebase_options.dart';
-import 'package:split_it/theme/app_theme.dart';
+import 'package:split_it/shared/theme/app_theme.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({Key? key}) : super(key: key);

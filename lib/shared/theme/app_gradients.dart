@@ -14,6 +14,8 @@ class AppGradientsDefault implements AppGradients {
           Color(0xFF45CC93),
           Color(0xFF40B38C),
         ],
+        begin: Alignment.topLeft,
+        end: Alignment.bottomRight,
         transform: GradientRotation(2.35619 * pi),
       );
 
